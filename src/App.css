@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.black-nav {
+  background-color: #111;
+  color: #fff;
+  padding: 20px;
+}
+
+.list {
+  border-bottom: 1px solid rgb(236, 236, 236);
+  padding: 20px;
+}
+
+.list span {
+  cursor: pointer;
+}
