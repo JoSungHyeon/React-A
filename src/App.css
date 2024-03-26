@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+.App h4, .App p {
+  margin: 20px 0;
+}
+
 .black-nav {
   background-color: #111;
   color: #fff;
@@ -17,4 +21,11 @@
 
 .list span {
   cursor: pointer;
+}
+
+.modal {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #eee;
+  text-align: left;
 }
